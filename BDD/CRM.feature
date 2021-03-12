@@ -38,7 +38,7 @@ Feature: Title of your feature
     
     Examples:
     |user1  |user2 |
-    |sundeep|Monika|
+    |Tannu|Shree|
     
     
   @crm_activity_4
