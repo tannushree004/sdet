@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test">
+    <test name="testngTest">
+       
+        <classes>
+             <class name="Testng_sessions.Activity7"/>
+               
+        </classes>
+    </test>
+</suite>
